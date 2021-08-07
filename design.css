@@ -1,0 +1,41 @@
+img{
+    border: 50px solid;
+    border-color: rgb(139, 207, 238);
+    border-width: medium;
+    align-items: center;
+
+}
+.image{
+    display: flex;
+    flex-wrap:  wrap-reverse;
+    justify-content:space-evenly;
+    background-color: rgb(247, 156, 82);
+}
+h1{
+   
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2{
+   
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: small;
+} 
+.h{
+    display: flex;
+    flex-wrap:  wrap-reverse;
+    justify-content:space-evenly;
+    background-color: rgb(166, 101, 250);
+}
+.k{
+    display: flex;
+    flex-wrap:  wrap-reverse;
+    justify-content:space-evenly;
+    background-color: rgb(252, 250, 126);
+}
+.f{
+    display: flex;
+    flex-wrap:  wrap-reverse;
+    justify-content:space-evenly;
+    background-color: rgb(0, 255, 213);
+}
